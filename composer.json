@@ -1,0 +1,9 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "paquettg/php-html-parser": "^2.2",
+        "monolog/monolog": "^2.1",
+        "imangazaliev/didom": "^1.16",
+        "adbario/php-dot-notation": "^2.2"
+    }
+}
